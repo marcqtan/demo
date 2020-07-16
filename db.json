@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+
+  "user": [
+    { "custId": "111", "token": "ABC", "email": "test@gmail.com" },
+    { "custId": "222", "token": "XYZ", "email": "test2@gmail.com"}
+  ]
 }
